@@ -28,5 +28,7 @@ I'm a 3rd Year Computer Science Student from the University of San Carlos
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
       </picture>
-      </a></p>### Badges<b>My GitHub Stats</b><a
+      </a>
+  </p> ### Badges<b>
+    My GitHub Stats</b><a
         href="http://www.github.com/saldestella"><img src="https://github-readme-stats.vercel.app/api?username=saldestella&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saldestella's GitHub stats" /></a>
